@@ -205,7 +205,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2000;1;kontext;sammanhang;förändring;bekräftelse;åskådlighet;överläggning;sammanhang
 2000;1;kuschad;vilseledd;utstött;nedtryckt;utlevad;bortskämd;nedtryckt
 2000;1;lastbar;omoralisk;hederlig;oförstående;mångsidig;oskyldig;omoralisk
-2000;1;med förlov sagt;med beklagande av sorgen;med hopp om snart återseeende;med bindande löfte;med väl valda ord;med ursäkt för min rättframhet PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;med ursäkt för min rättframhet PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.
+2000;1;med förlov sagt;med beklagande av sorgen;med hopp om snart återseeende;med bindande löfte;med väl valda ord;med ursäkt för min rättframhet;med ursäkt för min rättframhet
 2000;1;perception;fulländning;genomträngande;omskrivning;avståndstagande;varseblivning;varseblivning
 2000;1;rimma;torka;röka;salta;steka;pressa;salta
 2000;1;rön;rättigheter;anvisningar;möjligheter;bestämmelser;iakttagelser;iakttagelser
@@ -231,7 +231,8 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2000;2;föreskriva;inge falska förhoppningar om;göra sig en bild av;geen första antydan om;fungera som ombud för;utfärda bestämmelse om;utfärda bestämmelse om
 2000;2;försigkommen;bäst i sitt slag;för tidigt död;tidig för sin ålder;ständigt pågående;snabbt övergående;tidig för sin ålder
 2000;2;genus;stor begåvning;ärftligt anlag;ond ande;socialt kön;berömd person;socialt kön
-2000;2;geriatrik;läran om ögat och dess sjukdomar;läran om hjärt- och kärlsjukdomar;läran om barnsjukdomar;läran om nerver och nervsjukdomar;läran om åldrandets sjukdomar;läran om åldrandets sjukdomar1979;1;armod;tapperhet;modlöshet;fattigdom;illvilja;fromhet;fattigdom
+2000;2;geriatrik;läran om ögat och dess sjukdomar;läran om hjärt- och kärlsjukdomar;läran om barnsjukdomar;läran om nerver och nervsjukdomar;läran om åldrandets sjukdomar;läran om åldrandets sjukdomar
+1979;1;armod;tapperhet;modlöshet;fattigdom;illvilja;fromhet;fattigdom
 2000;2;halvmesyr;moraliskt förfall;växlande molnighet;sparsam belysning;i otillracklig åtgärd;mild tillrattavisning;i otillracklig åtgärd
 2000;2;het potatis;fräckt och utmanande påstående;överilat beslut;intensiv och hetsig debatt;grundlöst rykte;brännbar och känslig fråga;brännbar och känslig fråga
 2000;2;homogen;enformig;entydig;enskild;ensidig;enhetlig;enhetlig
@@ -256,7 +257,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2000;2;övervara;slå vakt om;komma över;tynga ned;gå bort;närvara vid;närvara vid
 2001;1;abstraktion;stor skillnad;frihet;tankeskapelse;orimlighet;meningslöst arbete;tankeskapelse
 2001;1;ackja;renko;släde;spåkvinna;ryggsäck;trumma;släde
-2001;1;afasi;nedsättning av språkförmågan till följd av hjärnskada;upprepade återfall i en tidigare sjukdom;oregelbunden hjärtrytm;sjuklig tillbakabildning av vävnad eller organ;överkänslighet mot vissa ämnen PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;nedsättning av språkförmågan till följd av hjärnskada
+2001;1;afasi;nedsättning av språkförmågan till följd av hjärnskada;upprepade återfall i en tidigare sjukdom;oregelbunden hjärtrytm;sjuklig tillbakabildning av vävnad eller organ;överkänslighet mot vissa ämnen;nedsättning av språkförmågan till följd av hjärnskada
 2001;1;affektionsvärde;bytesvärde;bruksvärde;mervärde;känslovärde;kulturvärde;känslovärde
 2001;1;agorafobi;höjdskräck;bacillskräck;torgskräck;vattenskräck;cellskräck;torgskräck
 2001;1;askes;försakelse;flit;grubbleri;hat;vanetänkande;försakelse
@@ -323,7 +324,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2003;1;otidighet;oförskämdhet;ombytlighet;oärlighet;omdömeslöshet;osjälvständighet;oförskämdhet
 2003;1;paradoxal;förmodad;fördelaktig;likartad;övertygande;motsägelsefull;motsägelsefull
 2003;1;periferi;närmiljö;mittpunkt;gränslinje;vändpunkt;ytterområde;ytterområde
-2003;1;pluralism;förhållandet mellan gott och ont;majoritet vid omröstning;konkurrens mellan olika organ;frihet från regler och normer;kulturell och åsiktsmässig mångfald PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;kulturell och åsiktsmässig mångfald PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.
+2003;1;pluralism;förhållandet mellan gott och ont;majoritet vid omröstning;konkurrens mellan olika organ;frihet från regler och normer;kulturell och åsiktsmässig mångfald;kulturell och åsiktsmässig mångfald
 2003;1;praxis;logisk slutledningsförmåga;vedertaget bruk;nödvändig förutsättning;ofrånkomlig handling;oåterkalleligt beslut;vedertaget bruk
 2003;1;premiera;föredra;belöna;förebygga;betala;fördela;belöna
 2003;1;prompt;tydligen;uteslutande;ovillkorligen;naturligtvis;slutligen;ovillkorligen
@@ -366,7 +367,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2003;2;plafond;plant innertak;altan;klättervägg för blommor;väggfast bänk;fönsternisch;plant innertak
 2003;2;proaktiv;undersökande;utmanande;förebyggande;utvecklande;förenande;förebyggande
 2003;2;purken;omedgörlig;långsint;förnärmad;hånfull;avståndstagande;förnärmad
-2003;2;reda av;koka upp snabbt under omrörning;göra soppa eller sås tjockare;späda med vatten eller mjölk;koka bort överflödig vätska;ösa bort skum från sylt och saft PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;göra soppa eller sås tjockare
+2003;2;reda av;koka upp snabbt under omrörning;göra soppa eller sås tjockare;späda med vatten eller mjölk;koka bort överflödig vätska;ösa bort skum från sylt och saft;göra soppa eller sås tjockare
 2003;2;regatta;markerad farled;serie kappseglingar;handelsflotta;medelstort krigsfartyg;småbåtshamn;serie kappseglingar
 2003;2;stålsätta sig;bestämma sig;träna sig;härda sig;vänja sig;neka sig;härda sig
 2003;2;syndrom;sjukdomsorsak;följdsjukdom;sjukdomsbild;sjukdomsfall;folksjukdom;sjukdomsbild
@@ -384,7 +385,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2005;1;fresk;väggmålning;taklist;spegelram;tapetbård;marmordekoration;väggmålning
 2005;1;fägring;glädje;beundran;skönhet;dröm;synvilla;skönhet
 2005;1;förflugen;ödesbestämd;feltolkad;urspårad;ogenomtänkt;bortslösad;ogenomtänkt
-2005;1;gäldenär;person som handlar med värdepapper;person som är skyldig pengar;person som driver in fordringar;person som lever på räntor;person som saknar ekonomiska medel PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;person som är skyldig pengar
+2005;1;gäldenär;person som handlar med värdepapper;person som är skyldig pengar;person som driver in fordringar;person som lever på räntor;person som saknar ekonomiska medel;person som är skyldig pengar
 2005;1;honorar;ärebetygelse;hyllning;arvode;uppdrag;hedersgäst;arvode
 2005;1;insulin;kolhydratomsättande hormon;blodtryckssänkande medicin;vätskedrivande medel;antiinflammatoriskt preparat;bakteriedödande läkemedel;kolhydratomsättande hormon
 2005;1;jalusi;persienn;tittskåp;fönsterhylla;gardinstång;lådhurts;persienn
@@ -427,7 +428,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2005;2;förfördela;vara efterhängsen;kämpa emot;lämna åt ödet;försöka dölja;behandla orättvist;behandla orättvist
 2005;2;gungfly;insekt;illamående;osäker mark;stark känsla;snabbt försvinnande;osäker mark
 2005;2;hjärtefråga;evig fråga;vänlig fråga;känslig fråga;angelägen fråga;närgången fråga;angelägen fråga
-2005;2;hospis;sjukhem för vård av svårt sjuka eller döende patienter;anläggning för utvinning av hälsobringande mineraler;sluten avdelning för psykiskt sjuka;förlossningsklinik som erbjuder alternativa metoder;privat hälsohem för rehabilitering av missbrukare PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;sjukhem för vård av svårt sjuka eller döende patienter
+2005;2;hospis;sjukhem för vård av svårt sjuka eller döende patienter;anläggning för utvinning av hälsobringande mineraler;sluten avdelning för psykiskt sjuka;förlossningsklinik som erbjuder alternativa metoder;privat hälsohem för rehabilitering av missbrukare;sjukhem för vård av svårt sjuka eller döende patienter
 2005;2;inte lägga två strån i kors;inte trassla till det;vara besvärlig;inte anstränga sig;hoppas på det bästa;inte dölja något;inte anstränga sig
 2005;2;interagera;ingripa;antyda;avbryta;infoga;samspela;samspela
 2005;2;kioskvältare;succéartad bok;skadegörare;skvallerjournalist;liten grävmaskin;uppseendeväckande reklam;succéartad bok
@@ -475,7 +476,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2006;1;kollaboratör;förföljare;förrädare;förförare;försvarare;förbrytare;förrädare
 2006;1;med hull och hår;stadigt;med glädje;spontant;brutalt;fullständigt;fullständigt
 2006;1;moralkaka;oanständigt förslag;mästrande anmärkning;dold motsägelse;kärnfull slutsats;orättvis beskyllning;mästrande anmärkning
-2006;1;name-dropping;det att ofta nämna kända personer;överanvändning av smeknamn;det att ta sig ett artistnamn;kunskap om personers titlar;byte av båda makars namn vid giftermål PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;det att ofta nämna kända personer
+2006;1;name-dropping;det att ofta nämna kända personer;överanvändning av smeknamn;det att ta sig ett artistnamn;kunskap om personers titlar;byte av båda makars namn vid giftermål;det att ofta nämna kända personer
 2006;1;otillräknelig;misslyckad;ouppfostrad;sinnesförvirrad;otränad;slarvig;sinnesförvirrad
 2006;1;pannå;träskiva för målning;utställningsmonter;hästdragen praktvagn;informationstavla;väggfast köksbänk;träskiva för målning
 2006;1;popularisera;stödja;göra lättillgänglig;engagera;visa uppskattning;umgås;göra lättillgänglig
@@ -517,7 +518,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2006;2;ligga i träda;vara i konflikt;inte synas;vara fattig;inte användas;arbeta hårt;inte användas
 2006;2;litografi;gudstjänstordning;kartritning;grafiskt blad;vacker skrift;levnadsbeskrivning;grafiskt blad
 2006;2;lomma iväg;skynda sig;få ett försprång;drömma sig bort;långsamt ge sig av;fly undan ansvar;långsamt ge sig av
-2006;2;maskrosbarn;barn som växer upp under svåra villkor och lär sig bemästra dem;barn som lever i stadsmiljö utan kontakt med naturen;barn som växer upp i en stor syskonskara;barn som anses ha dåligt inflytande över andra barn;barn som inte kräver så mycket uppmärksamhet PROVET ÄR SLUT. OM DU HAR TID ÖVER, GÅ TILLBAKA OCH KONTROLLERA DINA SVAR.;barn som växer upp under svåra villkor och lär sig bemästra dem
+2006;2;maskrosbarn;barn som växer upp under svåra villkor och lär sig bemästra dem;barn som lever i stadsmiljö utan kontakt med naturen;barn som växer upp i en stor syskonskara;barn som anses ha dåligt inflytande över andra barn;barn som inte kräver så mycket uppmärksamhet;barn som växer upp under svåra villkor och lär sig bemästra dem
 2006;2;mångfasetterad;fint fördelad;användbar;rikt nyanserad;gåtfull;mycket vanlig;rikt nyanserad
 2006;2;paria;fattigkvarter;ekonomisk nedgång;utstött person;tropisk sjukdom;långvarig torka;utstött person
 2006;2;profession;metod;ärende;livsverk;yrke;utbildning;yrke
@@ -535,18 +536,18 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2006;2;yrkande;befallning;upprop;påminnelse;protest;krav;krav
 2006;2;överlag;ungefär;genomgående;sannolikt;ofta;varsomhelst;genomgående
 2007;1;ackord;löneförhöjning;övertidsersättning;löneförmån;prestationslön;löneförhandling;prestationslön
-2007;1;anagram;bokstavslek;guldhalt;ﬁngeravtryck;pulskurva;avbildning;bokstavslek
+2007;1;anagram;bokstavslek;guldhalt;fingeravtryck;pulskurva;avbildning;bokstavslek
 2007;1;avyttra;sälja;undvika;förklara;avslöja;skänka;sälja
 2007;1;brödtext;löpande text;bildtext;utkast;rubrik;oredigerad text;löpande text
-2007;1;cytostatika;cellgift;blodansamling;nervinﬂammation;arvsmassa;näringslösning;cellgift
+2007;1;cytostatika;cellgift;blodansamling;nervinflammation;arvsmassa;näringslösning;cellgift
 2007;1;deciderad;avgränsad;bestämd;utvecklad;förklarad;undersökt;bestämd
 2007;1;despot;förtryckare;krigshetsare;befriare;andlig ledare;landsförrädare;förtryckare
-2007;1;determinism;uppfattningen att verkligheten är av materiell natur;övertygelsen om att världen kommer att gå under;idén om alltings gudomliga ursprung;viljan att genomföra det omöjliga;ståndpunkten att allt är förutbestämt PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.;ståndpunkten att allt är förutbestämt PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.
+2007;1;determinism;uppfattningen att verkligheten är av materiell natur;övertygelsen om att världen kommer att gå under;idén om alltings gudomliga ursprung;viljan att genomföra det omöjliga;ståndpunkten att allt är förutbestämt;ståndpunkten att allt är förutbestämt
 2007;1;enrollera;gå i god för;vara emot;föra bort;ta itu med;få att delta i;få att delta i
 2007;1;esplanad;öppet torg;trädplantering;stenlagd trottoar;kvarter;bred gata;bred gata
 2007;1;fäbless;förkärlek;entusiasm;berömmelse;förvåning;övertygelse;förkärlek
 2007;1;få ovett;få ett dåligt förslag;bli lurad;få skäll;bli motsagd;få en orättvis dom;få skäll
-2007;1;förehavanden;invändningar;förberedelser;göromål;undanﬂykter;egendom;göromål
+2007;1;förehavanden;invändningar;förberedelser;göromål;undanflykter;egendom;göromål
 2007;1;förorda;samtala;varna;rekommendera;planera;inleda;rekommendera
 2007;1;idealist;hyllad person;ärlig person;osjälvisk person;kreativ person;krävande person;osjälvisk person
 2007;1;inlemma;inge;insamla;inviga;insända;införliva;införliva
@@ -556,24 +557,24 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2007;1;klorofyll;doftsignal;bladnerv;ogräsmedel;färgämne;växtnäring;färgämne
 2007;1;kontentan;första intrycket;motsättningen;höjdpunkten;slutfasen;huvudinnehållet;huvudinnehållet
 2007;1;kornisch;gardinlist;tavelram;brädfodring;vägglampa;takmålning;gardinlist
-2007;1;oförtrutet;fräckt;nyﬁket;frimodigt;uthålligt;hederligt;uthålligt
+2007;1;oförtrutet;fräckt;nyfiket;frimodigt;uthålligt;hederligt;uthålligt
 2007;1;ogin;ondskefull;underlig;snål;skrämmande;bitter;snål
 2007;1;oskick;avvisande hållning;svag karaktär;olämplig miljö;dåligt uppförande;omild behandling;dåligt uppförande
 2007;1;paradera;marschera;skämta;strida;härma;avvärja;marschera
 2007;1;prägling;teckentydning;gradvis avvänjning;intensiv övertalning;instinktiv inlärning;produktbeskrivning;instinktiv inlärning
 2007;1;pådyvla;driva på;anvisa;passa på;överdriva;tvinga på;tvinga på
-2007;1;ratiﬁcera;överklaga;avslå;godkänna;sammanställa;förväxla;godkänna
+2007;1;ratificera;överklaga;avslå;godkänna;sammanställa;förväxla;godkänna
 2007;1;skäligt;trovärdigt;nödvändigt;säkert;rimligt;grundligt;rimligt
 2007;1;slå dank;skada sig;sälja bra;missta sig;göra slät;lata sig;lata sig
 2007;1;stagnation;bortstötning;avstannande;förstärkning;nedskärning;upptrappning;avstannande
 2007;1;stranda;lyckas;försenas;överge;avsluta;misslyckas;misslyckas
-2007;1;svärmisk;omtänksam;ombytlig;romantisk;fåfäng;ﬂyktig;romantisk
-2007;1;utan krumbukter;utan eftertanke;utan undanﬂykter;utan ånger;utan baktankar;utan nåd;utan undanﬂykter
+2007;1;svärmisk;omtänksam;ombytlig;romantisk;fåfäng;flyktig;romantisk
+2007;1;utan krumbukter;utan eftertanke;utan undanflykter;utan ånger;utan baktankar;utan nåd;utan undanflykter
 2007;1;utröna;meddela;ta reda på;avskilja;ge vika för;avsluta;ta reda på
 2007;1;vakant;enformig;stadig;växlande;intressant;ledig;ledig
 2007;1;vidsynt;fantasifull;uppmärksam;allmänbildad;optimistisk;tolerant;tolerant
 2007;1;övermaga;övermodigt självsäker;överkänslig;överlägset bäst;överförfriskad;överdrivet beskyddande;övermodigt självsäker
-2007;1;ﬁngertoppskänsla;stor lyhördhet;nyﬁkenhet;idérikedom;musikalitet;stark självkänsla;stor lyhördhet
+2007;1;fingertoppskänsla;stor lyhördhet;nyfikenhet;idérikedom;musikalitet;stark självkänsla;stor lyhördhet
 2007;2;aber;smärtsam förlust;ovana;olöslig gåta;hinder;dåligt föredöme;hinder
 2007;2;allitteration;ordspråk;högläsning;begynnelserim;anspelning;förenkling;begynnelserim
 2007;2;amnesi;stelhet;chocktillstånd;förlamning;minnesförlust;syrebrist;minnesförlust
@@ -612,7 +613,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2007;2;utvikning;intygande om riktighet;avvikelse från ämnet;utspridning av verksamhet;begäran om förlängning;utjämning av skillnader;avvikelse från ämnet
 2007;2;vidtala;kräva svar;informera och tillfråga;försäga sig;skvallra och ljuga;vagt antyda;informera och tillfråga
 2007;2;villrådighet;misstänksamhet;håglöshet;osäkerhet;feghet;försiktighet;osäkerhet
-2007;2;wallraffa;ge ut en bok på eget förlag;arbeta under falsk identitet i journalistiskt syfte;ta med sig kunder till ett konkurrerande företag;göra en snabb karriär inom media;tvingas avgå för allmänhetens bästa PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.;arbeta under falsk identitet i journalistiskt syfte
+2007;2;wallraffa;ge ut en bok på eget förlag;arbeta under falsk identitet i journalistiskt syfte;ta med sig kunder till ett konkurrerande företag;göra en snabb karriär inom media;tvingas avgå för allmänhetens bästa;arbeta under falsk identitet i journalistiskt syfte
 2007;2;övertalig;överdriven;överarbetad;överlägsen;övermogen;överflödig;överflödig
 2008;1;benägenhet;tendens;önskan;ambition;möjlighet;övertygelse;tendens
 2008;1;biotop;energikälla;naturreservat;livsmiljö;näringsämne;blandform;livsmiljö
@@ -647,7 +648,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2008;1;projektera;rapportera;färdigställa;beordra;planera;hyra;planera
 2008;1;påstötning;påminnelse;påverkan;påslag;påhälsning;påfrestning;påminnelse
 2008;1;reaktionär;motsägelsefull;bakåtsträvande;bestämd;jordnära;tålig;bakåtsträvande
-2008;1;servitut;undertecknande av fördrag mellan stater;inskränkning i fastighetsägares bestämmanderätt över egen mark;dom eller beslut som kan utgöra norm för liknande fall;regler för tjänstetillsättning inom statliga verk;uppdelning av egendom i samband med arvsskifte PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.;inskränkning i fastighetsägares bestämmanderätt över egen mark
+2008;1;servitut;undertecknande av fördrag mellan stater;inskränkning i fastighetsägares bestämmanderätt över egen mark;dom eller beslut som kan utgöra norm för liknande fall;regler för tjänstetillsättning inom statliga verk;uppdelning av egendom i samband med arvsskifte;inskränkning i fastighetsägares bestämmanderätt över egen mark
 2008;1;spjälka;stå emot;skjuta på;öppna upp;stoppa;sönderdela;sönderdela
 2008;1;spritsa;tunna ut;fylla på;blanda till;strö över;pressa ut;pressa ut
 2008;1;substantiell;hårfin;övernaturlig;känslig;krävande;påtaglig;påtaglig
@@ -682,7 +683,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2008;2;magenta;blommande växt;fartyg;bergart;färgämne;juvelsmycke;färgämne
 2008;2;malör;missöde;gräl;plåga;försummelse;förlust;missöde
 2008;2;materialisera;förtäta;förstöra;förädla;förkroppsliga;förvränga;förkroppsliga
-2008;2;misstroendevotum;formell begäran om att få lämna en offentlig anställning;anmälan om ministerstyre;intern kritik av offentligt anställd;riksdagsomröstning om förtroende för regeringen;misstanke om dolda löneförmåner inom offentliga arbeten Provet är slut. finns tid över, –– kontroLlera dina svar.;riksdagsomröstning om förtroende för regeringen
+2008;2;misstroendevotum;formell begäran om att få lämna en offentlig anställning;anmälan om ministerstyre;intern kritik av offentligt anställd;riksdagsomröstning om förtroende för regeringen;misstanke om dolda löneförmåner inom offentliga arbeten;riksdagsomröstning om förtroende för regeringen
 2008;2;oktav;tonklang;tonart;tonstyrka;tonintervall;tonbild;tonintervall
 2008;2;patriarkat;manssamhälle;styrande råd;prästmöte;nationalstat;egendomsgemenskap;manssamhälle
 2008;2;polityr;rutinkontroll;hårt mineral;yttre förfining;sträng uppfostran;skämtteckning;yttre förfining
@@ -719,7 +720,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2009;1;konstellation;uppdrag;gruppering;påverkan;förberedelse;omflyttning;gruppering
 2009;1;konstfärdigt;egendomligt;skickligt;beskrivande;föränderligt;komplicerat;skickligt
 2009;1;le i mjugg;le trött;le ansträngt;le utan orsak;le brett;le i smyg;le i smyg
-2009;1;logopedi;läran om kroppens funktioner under arbete;läran om skelettets uppbyggnad;läran om barns inlärningsförmåga;läran om röst- och talrubbningar;läran om hjärnans utveckling PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR. Ord 09A.indd 4 2009-01-12 10:37:35;läran om röst- och talrubbningar
+2009;1;logopedi;läran om kroppens funktioner under arbete;läran om skelettets uppbyggnad;läran om barns inlärningsförmåga;läran om röst- och talrubbningar;läran om hjärnans utveckling;läran om röst- och talrubbningar
 2009;1;luttrad;viljestark;härdad;sviken;uttråkad;misslyckad;härdad
 2009;1;markant;grundlig;hård;självklar;intensiv;påtaglig;påtaglig
 2009;1;moment 22;vild chanstagning;tidsödande uppgift;återkommande fara;nedåtgående trend;orimlig situation;orimlig situation
@@ -749,7 +750,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2009;2;gnejs;hög kulle;varm källa;jordlager;smågrus;bergart;bergart
 2009;2;gå på i ullstrumporna;handla i god tro;göra bort sig;vara omodern;smita undan ansvar;inte låta sig hejdas;inte låta sig hejdas
 2009;2;halsstarrig;envis;berusad;egoistisk;sjuklig;komisk;envis
-2009;2;infrastruktur;mönster för demokratiskt statsskick;princip för rättvis fördelning av resurser;konkurrensneutralitet inom en sektor i näringslivet;samarbetsform vid upphandling av varor och tjänster;ekonomiskt bassystem som är grunden för att ett land ska fungera PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.;ekonomiskt bassystem som är grunden för att ett land ska fungera PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.
+2009;2;infrastruktur;mönster för demokratiskt statsskick;princip för rättvis fördelning av resurser;konkurrensneutralitet inom en sektor i näringslivet;samarbetsform vid upphandling av varor och tjänster;ekonomiskt bassystem som är grunden för att ett land ska fungera;ekonomiskt bassystem som är grunden för att ett land ska fungera
 2009;2;karens;uppsägning;strafflängd;inskolning;isolering;väntetid;väntetid
 2009;2;kondens;avkylning;imma;förtätning;skum;gasbildning;imma
 2009;2;kontaminerad;befruktad;förorenad;förbjuden;oavbruten;undersökt;förorenad
@@ -796,7 +797,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2010;1;karg;ofruktbar;köldhärdig;utbränd;torr;övergiven;ofruktbar
 2010;1;koncern;bolagsgrupp;familjeföretag;industrigren;exportföretag;dotterbolag;bolagsgrupp
 2010;1;korpulent;fetlagd;generös;högdragen;förfinad;pratglad;fetlagd
-2010;1;namne;person som har ett mycket ovanligt namn;person med samma namn som någon annan;persons egenhändigt skrivna namnteckning;person vars namn många känner till;person som fått ge namn åt en ny produkt Provet är slut. finns tid över, –4– kontroLlera dina svar.;person med samma namn som någon annan
+2010;1;namne;person som har ett mycket ovanligt namn;person med samma namn som någon annan;persons egenhändigt skrivna namnteckning;person vars namn många känner till;person som fått ge namn åt en ny produkt;person med samma namn som någon annan
 2010;1;ockra;mönster;tyg;matta;keramik;färg;färg
 2010;1;otvunget;helt och hållet;övertygat;i högsta grad;nyfiket;ledigt och säkert;ledigt och säkert
 2010;1;passepartout;överskrift;inramning;dans;text;visa;inramning
@@ -843,7 +844,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2010;2;plausibel;trolig;viktig;skonsam;smidig;rättvis;trolig
 2010;2;potentat;domare;pamp;sponsor;politiker;svindlare;pamp
 2010;2;rojalistisk;kungatrogen;av hög börd;högfärdig;konservativ;förnäm;kungatrogen
-2010;2;självutplåning;det att lämna ut sig själv;det att känna sig övergiven;det att ta på sig skulden;det att tycka synd om sig själv;det att undertrycka sina egna behov PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.;det att undertrycka sina egna behov PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.
+2010;2;självutplåning;det att lämna ut sig själv;det att känna sig övergiven;det att ta på sig skulden;det att tycka synd om sig själv;det att undertrycka sina egna behov;det att undertrycka sina egna behov
 2010;2;skenbar;som inte går att föreställa sig;svår att urskilja;som inte går att missa;svår att beskriva;som inte är vad det tycks vara;som inte är vad det tycks vara
 2010;2;stenografi;radiomeddelande;mineralförteckning;bullermätning;åldersbestämning;snabbskrift;snabbskrift
 2010;2;stuva;spara;rensa;slå in;packa;sortera;packa
@@ -880,7 +881,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2011;1;meridian;havsnivå;vändpunkt;toppskikt;längdgrad;krökning;längdgrad
 2011;1;nobless;smyckeskrin;påkostad bal;social elit;överdådig måltid;aftonklänning;social elit
 2011;1;opus;rättighet;verk;avtal;teori;vision;verk
-2011;1;outsourcing;att sälja varor av kända märken;att lägga ut delar av sin verksamhet på entreprenad;att omplacera personal i ledande ställning;att begära företrädesrätt vid försäljning;att fördela ett företags vinst på aktieägarna PROVET ÄR SLUT. FINNS TID ÖVER, –4– KONTROLLERA DINA SVAR.;att lägga ut delar av sin verksamhet på entreprenad
+2011;1;outsourcing;att sälja varor av kända märken;att lägga ut delar av sin verksamhet på entreprenad;att omplacera personal i ledande ställning;att begära företrädesrätt vid försäljning;att fördela ett företags vinst på aktieägarna;att lägga ut delar av sin verksamhet på entreprenad
 2011;1;perforering;rutmönster;hålrad;klisterremsa;mittlinje;pappersveck;hålrad
 2011;1;progressiv;saklig;framstegsvänlig;förutseende;framfusig;stridslysten;framstegsvänlig
 2011;1;pudelns kärna;en svårlöst gåta;den verkliga innebörden;en väl bevarad hemlighet;den inre drivkraften;en engagerande fråga;den verkliga innebörden
