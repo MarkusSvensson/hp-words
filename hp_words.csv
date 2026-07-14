@@ -2,6 +2,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1979;1;adept;släkting;delägare;vän;lärjunge;fånge;lärjunge
 1979;1;antagonism;förutsättning;motsättning;ohederlighet;misslyckande;frånvaro;motsättning
 1979;1;arkipelag;fornfynd;byggnadskonst;ögrupp;polaris;havsbotten;ögrupp
+1979;1;armod;tapperhet;modlöshet;fattigdom;illvilja;fromhet;fattigdom
 1979;1;astigmatism;talfel;synfel;hjärtfel;blodsjukdom;hudsjukdom;synfel
 1979;1;autentisk;erfaren;tillförlitlig;fullständig;välunderrättad;betydande;tillförlitlig
 1979;1;beklämd;bunden;skakad;överlastad;hänsynslös;nedstämd;nedstämd
@@ -178,6 +179,65 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1981;2;sanera;frigöra;bevara;torrlägga;rengöra;förstöra;rengöra
 1981;2;statisk;stillastående;tryckande;tilltagande;beräknande;betecknande;stillastående
 1981;2;sufflera;påverka;ersätta;tillreda;viska;gissa;viska
+1982;1;ambivalens;upprördhet;självmedvetenhet;överkänslighet;underlägenhet;kluvenhet;kluvenhet
+1982;1;aura;spira;sken;rökelse;spådom;doft;sken
+1982;1;blasé;gammalmodig;uppmärksam;nedlåtande;likgiltig;klumpig;likgiltig
+1982;1;didaktisk;spetsfundig;uppslupen;undervisande;beräknande;skiljaktig;undervisande
+1982;1;enkät;kallelse;anteckning;rundfråga;ansökan;tillstånd;rundfråga
+1982;1;fjärma;avlägsna;bortförklara;sammanföra;anvisa;begränsa;avlägsna
+1982;1;gourmet;drömtydare;bedragare;beskyddare;upprorsmakare;finsmakare;finsmakare
+1982;1;hemisfär;stjärnbild;halvklot;pol;fixstjärna;norrsken;halvklot
+1982;1;hybris;lockelse;inbilskhet;sans;utstrålning;övermod;övermod
+1982;1;järtecken;varsel;hänvisning;bekräftelse;adelsmärke;släktdrag;varsel
+1982;1;jävig;lämplig;föraktfull;högljudd;fridsam;obehörig;obehörig
+1982;1;kantele;soffa;vagn;musikstycke;blomma;instrument;instrument
+1982;1;konträr;motsatt;omstridd;ogiltig;besvärlig;påtaglig;motsatt
+1982;1;konvergera;komma tillbaka;löpa ihop;gå isär;komma överens;avsäga sig;löpa ihop
+1982;1;kuperad;hård;krokig;ojämn;rundad;brokig;ojämn
+1982;1;kuriös;framstående;allvarlig;underlig;misstänksam;vardaglig;underlig
+1982;1;maxim;lag;tecken;avtal;grundsats;rådslag;grundsats
+1982;1;nautik;sjövetenskap;nakenkultur;växtfärgning;naturbeskrivning;flygkonst;sjövetenskap
+1982;1;plausibel;löjlig;verklig;känslig;sannolik;tråkig;sannolik
+1982;1;preferera;förestå;förelägga;föredra;företaga;föregripa;föredra
+1982;1;påtala;försäkra;bevisa;kräva;beställa;kritisera;kritisera
+1982;1;relevant;föränderlig;smidig;betydelsefull;tålig;motståndskraftig;betydelsefull
+1982;1;respons;avslag;avsked;svar;frist;förfrågan;svar
+1982;1;rubank;stege;hyvel;skål;båt;uthus;hyvel
+1982;1;sentens;motsats;tänkespråk;uppslag;förutsägelse;andel;tänkespråk
+1982;1;stadfästa;godkänna;upplysa;anbringa;tillägga;utveckla;godkänna
+1982;1;suggerera;påverka;ersätta;befalla;utnyttja;understödja;påverka
+1982;1;syndrom;vanföreställning;sjukdomsbild;världsbild;gängbildning;trosriktning;sjukdomsbild
+1982;1;syntes;ersättning;kännetecken;beställning;förslag;sammanställning;sammanställning
+1982;2;beivra;ingripa mot;skynda på;förolämpa;utmana;uppmuntra till;ingripa mot
+1982;2;bifurkation;urgröpning;anhopning;avspärrning;förgrening;förvisning;förgrening
+1982;2;bilateral;ostadig;oegennyttig;ömsesidig;planmässig;tvetydig;ömsesidig
+1982;2;defaitism;modlöshet;inställsamhet;ofullständighet;efterblivenhet;ålderssvaghet;modlöshet
+1982;2;diarium;vattenbehållare;ormgrop;uppskov;dagbok;räkning;dagbok
+1982;2;enlevera;avskeda;bortföra;utlämna;anlita;överge;bortföra
+1982;2;erodera;ilskna till;ta isär;nöta bort;stöta ut;missta sig;nöta bort
+1982;2;fingerad;upprepad;låtsad;ändrad;avklarad;fastställd;låtsad
+1982;2;forte;svagt;stötvis;snabbt;starkt;sakta;starkt
+1982;2;honorar;hälsning;uppvisning;betalning;uppvaktning;insamling;betalning
+1982;2;hörsamma;förtydliga;befalla;åhöra;förnimma;lyda;lyda
+1982;2;interaktion;utrop;avsikt;omtagning;förfrågan;växelspel;växelspel
+1982;2;koncession;tillbakagång;tillkomst;tillstånd;tillfällighet;tillrättavisning;tillstånd
+1982;2;konsolidera;upprusta;förstärka;begrunda;tillerkänna;förhandla;förstärka
+1982;2;kryptisk;hemlighetsfull;snål;översvallande;nedstämd;omständlig;hemlighetsfull
+1982;2;makulera;erbjuda;beräkna;överklaga;förstöra;återsända;förstöra
+1982;2;nagelfara;reta;lura;granska;betvivla;nedgöra;granska
+1982;2;nekrolog;orgelverk;dödsruna;vattenväxt;talarstol;köpebrev;dödsruna
+1982;2;ockult;oäkta;övernaturlig;opassande;enastående;finurlig;övernaturlig
+1982;2;perenn;flerårig;högtidlig;välfylld;fulländad;tillfällig;flerårig
+1982;2;reinkarnation;återfall;bortstötning;tillfrisknande;återfödelse;insjuknande;återfödelse
+1982;2;skrodera;pryda;förarga;skryta;baktala;skrämma;skryta
+1982;2;skrupler;baktankar;motsättningar;oförrätter;förevändningar;betänkligheter;betänkligheter
+1982;2;stereotyp;noggrann;otillräknelig;slarvig;tveksam;oföränderlig;oföränderlig
+1982;2;symbios;åtskillnad;samlevnad;motstånd;medhåll;självständighet;samlevnad
+1982;2;talisman;soffa;trollkarl;krigare;skyddsföremål;helgedom;skyddsföremål
+1982;2;turbulens;virvelrörelse;utvidgning;inbromsning;kortslutning;färgskiftning;virvelrörelse
+1982;2;uniformitet;folklighet;oformlighet;giltighet;överlägsenhet;likformighet;likformighet
+1982;2;universell;enskild;påtaglig;allomfattande;överskådlig;ändamålsenlig;allomfattande
+1982;2;vitrin;utställningsskåp;giftblandning;bakverk;färgämne;avloppssystem;utställningsskåp
 2000;1;anstånd;försök;uppskov;utökning;bidrag;skäl;uppskov
 2000;1;attestera;upplysa;intyga;besluta;avlyssna;påbörja;intyga
 2000;1;bestickning;förlust;lån;avdrag;försäljning;muta;muta
@@ -232,7 +292,6 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2000;2;försigkommen;bäst i sitt slag;för tidigt död;tidig för sin ålder;ständigt pågående;snabbt övergående;tidig för sin ålder
 2000;2;genus;stor begåvning;ärftligt anlag;ond ande;socialt kön;berömd person;socialt kön
 2000;2;geriatrik;läran om ögat och dess sjukdomar;läran om hjärt- och kärlsjukdomar;läran om barnsjukdomar;läran om nerver och nervsjukdomar;läran om åldrandets sjukdomar;läran om åldrandets sjukdomar
-1979;1;armod;tapperhet;modlöshet;fattigdom;illvilja;fromhet;fattigdom
 2000;2;halvmesyr;moraliskt förfall;växlande molnighet;sparsam belysning;i otillracklig åtgärd;mild tillrattavisning;i otillracklig åtgärd
 2000;2;het potatis;fräckt och utmanande påstående;överilat beslut;intensiv och hetsig debatt;grundlöst rykte;brännbar och känslig fråga;brännbar och känslig fråga
 2000;2;homogen;enformig;entydig;enskild;ensidig;enhetlig;enhetlig
@@ -545,6 +604,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2007;1;determinism;uppfattningen att verkligheten är av materiell natur;övertygelsen om att världen kommer att gå under;idén om alltings gudomliga ursprung;viljan att genomföra det omöjliga;ståndpunkten att allt är förutbestämt;ståndpunkten att allt är förutbestämt
 2007;1;enrollera;gå i god för;vara emot;föra bort;ta itu med;få att delta i;få att delta i
 2007;1;esplanad;öppet torg;trädplantering;stenlagd trottoar;kvarter;bred gata;bred gata
+2007;1;fingertoppskänsla;stor lyhördhet;nyfikenhet;idérikedom;musikalitet;stark självkänsla;stor lyhördhet
 2007;1;fäbless;förkärlek;entusiasm;berömmelse;förvåning;övertygelse;förkärlek
 2007;1;få ovett;få ett dåligt förslag;bli lurad;få skäll;bli motsagd;få en orättvis dom;få skäll
 2007;1;förehavanden;invändningar;förberedelser;göromål;undanflykter;egendom;göromål
@@ -574,7 +634,6 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2007;1;vakant;enformig;stadig;växlande;intressant;ledig;ledig
 2007;1;vidsynt;fantasifull;uppmärksam;allmänbildad;optimistisk;tolerant;tolerant
 2007;1;övermaga;övermodigt självsäker;överkänslig;överlägset bäst;överförfriskad;överdrivet beskyddande;övermodigt självsäker
-2007;1;fingertoppskänsla;stor lyhördhet;nyfikenhet;idérikedom;musikalitet;stark självkänsla;stor lyhördhet
 2007;2;aber;smärtsam förlust;ovana;olöslig gåta;hinder;dåligt föredöme;hinder
 2007;2;allitteration;ordspråk;högläsning;begynnelserim;anspelning;förenkling;begynnelserim
 2007;2;amnesi;stelhet;chocktillstånd;förlamning;minnesförlust;syrebrist;minnesförlust
@@ -1439,4 +1498,4 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2026;1;upprätthålla;ge styrka åt;ta upp någons tid;ligga till grund för;bevara på en viss nivå;visa upp en snygg fasad;bevara på en viss nivå
 2026;1;utomordentlig;märklig;förhastad;oavsiktlig;förträfflig;noggrann;förträfflig
 2026;1;utsikter;möjligheter;upplevelser;önskemål;föreställningar;synpunkter;möjligheter
-2026;1;välvillig;fast besluten;pålitlig;optimistisk;följsam;sympatiskt inställd;sympatiskt inställd
+2026;1;välvillig;fast besluten;pålitlig;optimistisk;följsam;sympatiskt inställd;sympatiskt inställd1982;1;ajournera;uppnå;uppskjuta;utöka;uppmana;uppsöka;uppskjuta
