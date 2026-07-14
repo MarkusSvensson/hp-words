@@ -1,5 +1,7 @@
 # Ord från högskoleprovet
-Swedish Hogskoleprovet ORD word dataset in CSV format.
+Swedish Hogskoleprovet ORD word dataset in CSV format. 
+
+Not full dataset. More might be added later.
 
 Svenska: Dataset med ordkunskapsdelen av högskoleprovet. Historisk data. 
 Sökord: ord, hp, ord, gamla högskoleprov, facit, databas
