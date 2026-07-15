@@ -179,6 +179,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1981;2;sanera;frigöra;bevara;torrlägga;rengöra;förstöra;rengöra
 1981;2;statisk;stillastående;tryckande;tilltagande;beräknande;betecknande;stillastående
 1981;2;sufflera;påverka;ersätta;tillreda;viska;gissa;viska
+1982;1;ajournera;uppnå;uppskjuta;utöka;uppmana;uppsöka;uppskjuta
 1982;1;ambivalens;upprördhet;självmedvetenhet;överkänslighet;underlägenhet;kluvenhet;kluvenhet
 1982;1;aura;spira;sken;rökelse;spådom;doft;sken
 1982;1;blasé;gammalmodig;uppmärksam;nedlåtande;likgiltig;klumpig;likgiltig
@@ -298,6 +299,66 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1984;1;uvertyr;klädskåp;bakverk;sammanfattning;inledning;uttåg;inledning
 1984;1;virtuos;beundrare;skojare;nybörjare;lärare;mästare;mästare
 1984;1;yvas;ställa krav;brusa upp;missta sig;vara stolt;anpassa sig;vara stolt
+1985;1;ackordera;köpslå;införliva;anförtro;godta;påskynda;köpslå
+1985;1;annaler;diktsamlingar;lagtexter;årsböcker;nyutgåvor;bibelöversättningar;årsböcker
+1985;1;destruktiv;hotande;avvisande;påträngande;anklagande;förstörande;förstörande
+1985;1;divergera;avsluta;avvara;avtala;avvika;avskaffa;avvika
+1985;1;exceptionell;föredömlig;sällsynt;underlig;självvklar;måttlös;sällsynt
+1985;1;fjättra;söndra;skydda;lämna;binda;jaga;binda
+1985;1;florera;blomstra;fäkta;påverka;viska;skapa;blomstra
+1985;1;floskler;yviga gester;falska rykten;tomma ord;förtäckt hot;skarp kritik;tomma ord
+1985;1;framgent;snarast;likadant;samtidigt;tvärtemot;hädanefter;hädanefter
+1985;1;fusion;sammanslagning;tillstånd;överlåtelse;tillbakagång;utsändning;sammanslagning
+1985;1;karg;ojämn;stenig;platt;övergiven;ofruktbar;ofruktbar
+1985;1;kavitet;utbuktning;täthet;förhårdning;hålighet;grovlek;hålighet
+1985;1;kontenta;sammanblandning;sammansättning;sammansvärjning;sammanfattning;sammanhållning;sammanfattning
+1985;1;koreografi;bildvisning;kartritning;danskomposition;brevväxling;ljudåtergivning;danskomposition
+1985;1;korona;solur;herdestav;strålkrans;musikstycke;stjärnbild;strålkrans
+1985;1;kvalster;skruvmejsel;duntäcke;överrock;spindeldjur;kristallskål;spindeldjur
+1985;1;legitim;berömd;avskild;okänd;bestående;laglig;laglig
+1985;1;lider;fiskeredskap;träbåt;uthus;dragdjur;åkdon;uthus
+1985;1;negligera;ifrågasätta;förvränga;överdriva;framhäva;försumma;försumma
+1985;1;nesa;ilska;skam;fruktan;sorg;smärta;skam
+1985;1;närig;krånglig;tanklös;fräck;elak;snål;snål
+1985;1;parafras;omskrivning;jämförelse;inledning;upprepning;anteckning;omskrivning
+1985;1;pietetsfull;ångerfull;förhoppningsfull;vördnadsfull;förväntansfull;oskuldsfull;vördnadsfull
+1985;1;pläga;ångra sig;ha för vana;tala för;klaga på;vända sig emot;ha för vana
+1985;1;ponera;avvärja;antaga;uppmana;erkänna;försvara;antaga
+1985;1;preludium;hyllningssång;förspel;aftonsång;inropning;mellanakt;förspel
+1985;1;skans;lastrum;fartygsdäck;kommandobrygga;manskapsrum;landgång;manskapsrum
+1985;1;spörsmål;förutsägelse;fråga;förutsättning;fordran;faktum;fråga
+1985;1;subtil;hårfin;storslagen;ensidig;lättfattlig;högtidlig;hårfin
+1985;1;ådagalägga;visa;utmåla;påstå;beordra;påbörja;visa
+1985;2;amorf;bestämd;fullständig;hemlighetsfull;obetydlig;formlös;formlös
+1985;2;anamma;döma ut;spjärna emot;göra intryck på;ansvara för;tillägna sig;tillägna sig
+1985;2;ansa;dölja;sköta;offra;tvinga;hjälpa;sköta
+1985;2;appellera;tvinga;motverka;nämna;urskulda;vädja;vädja
+1985;2;baneman;fanbärare;dråpare;välgörare;tjänare;tiggare;dråpare
+1985;2;batist;tygsort;bergart;kryddväxt;verktyg;fabeldjur;tygsort
+1985;2;besudla;lägga beslag på;föra bakom ljuset;smutsa ner;göra obrukbar;slarva bort;smutsa ner
+1985;2;deportera;avslöja;pantsätta;förvisa;förvara;hemlighålla;förvisa
+1985;2;grotesk;vidunderlig;rörande;fordrande;missbelåten;högtidlig;vidunderlig
+1985;2;iris;synnerven;hornhinnan;näthinnan;regnbågshinnan;linsen;regnbågshinnan
+1985;2;karburator;kylare;startmotor;motorvärmare;förgasare;strömfördelare;förgasare
+1985;2;kräkla;biskopsstav;hattnål;griptång;vattenödla;sårskorpa;biskopsstav
+1985;2;lisa;vrede;tröst;skam;sorg;ånger;tröst
+1985;2;metronom;taktmätare;höjdmätare;bullermätare;ljudmätare;kraftmätare;taktmätare
+1985;2;mutation;överföring;sammanhållning;hopklumpning;bekämpning;förändring;förändring
+1985;2;nitisk;obalanserad;sparsam;högdragen;plikttrogen;lättsinnig;plikttrogen
+1985;2;plissera;klippa;kanta;måtta;stärka;vecka;vecka
+1985;2;rämna;smälta;sina;stupa;spricka;stelna;spricka
+1985;2;ränker;dåliga vanor;falska löften;listiga planer;hårda ord;slitna fraser;listiga planer
+1985;2;saktmodig;stel;beskedlig;ängslig;fånig;noggrann;beskedlig
+1985;2;schackra;utpressa;förskingra;muta;köpslå;hota;köpslå
+1985;2;schatull;tunnel;kärra;koja;täcke;skrin;skrin
+1985;2;succession;hjälp;lycka;följd;början;slut;följd
+1985;2;tillmäle;upplysning;samtycke;fullmakt;skällsord;upprepning;skällsord
+1985;2;understundom;sällan;ibland;samtidigt;alltid;ofta;ibland
+1985;2;utsaga;befallning;antagande;påstående;förfrågan;tillägg;påstående
+1985;2;valhänt;respektlös;erfaren;illasinnad;tafatt;modig;tafatt
+1985;2;vandel;levnadssätt;personlighet;tidsfördriv;livsåskådning;dödsångest;levnadssätt
+1985;2;vital;skicklig;munter;spänstig;klok;modig;spänstig
+1985;2;yster;snäll;virrig;stolt;vek;livlig;livlig
 2000;1;anstånd;försök;uppskov;utökning;bidrag;skäl;uppskov
 2000;1;attestera;upplysa;intyga;besluta;avlyssna;påbörja;intyga
 2000;1;bestickning;förlust;lån;avdrag;försäljning;muta;muta
@@ -1558,4 +1619,4 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2026;1;upprätthålla;ge styrka åt;ta upp någons tid;ligga till grund för;bevara på en viss nivå;visa upp en snygg fasad;bevara på en viss nivå
 2026;1;utomordentlig;märklig;förhastad;oavsiktlig;förträfflig;noggrann;förträfflig
 2026;1;utsikter;möjligheter;upplevelser;önskemål;föreställningar;synpunkter;möjligheter
-2026;1;välvillig;fast besluten;pålitlig;optimistisk;följsam;sympatiskt inställd;sympatiskt inställd1982;1;ajournera;uppnå;uppskjuta;utöka;uppmana;uppsöka;uppskjuta
+2026;1;välvillig;fast besluten;pålitlig;optimistisk;följsam;sympatiskt inställd;sympatiskt inställd
