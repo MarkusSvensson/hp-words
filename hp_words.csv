@@ -532,7 +532,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1989;1;avans;avgift;skuld;lån;vinst;förlust;vinst
 1989;1;briefa;göra slut på;uttrycka ogillande;informera kortfattat;studera ingående;knappa in på;informera kortfattat
 1989;1;cineast;filmstjärna;filmklubb;filmkännare;filmarkiv;filmkritiker;filmkännare
-1989;1;depå;utförsel;godsvagn;bestämmelseort;upplag;hållplats;godsvagn
+1989;1;depå;utförsel;godsvagn;bestämmelseort;upplag;hållplats;upplag
 1989;1;egal;onyttig;likgiltig;olaglig;tillfällig;oföränderlig;likgiltig
 1989;1;gissla;plåga;klaga;kräva;hota;hindra;plåga
 1989;1;hesitera;viska;följa;vårda;tveka;skynda;tveka
@@ -553,7 +553,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1989;1;thorax;ryggmärgen;bukhålan;bröstkorgen;underlivet;mellangärdet;bröstkorgen
 1989;1;vesper;vårsång;folksång;aftonsång;kampsång;vaggsång;aftonsång
 1989;1;visualisera;visa sig skicklig;skapa en bild av;ge bevis på;dra fram i ljuset;fästa uppmärksamheten på;dra fram i ljuset
-1989;1;överdängare;lögnare;beskyddare;svindlare;anhängare;bedårare;bedårare
+1989;1;överdängare;lögnare;beskyddare;svindlare;anhängare;baddare;baddare
 1989;2;allokera;fördela;ersätta;jämföra;återkalla;utvälja;fördela
 1989;2;alltjämt;ofta;regelbundet;ibland;fortfarande;huvudsakligen;fortfarande
 1989;2;ambivalent;falsk;kluven;slö;tvär;envis;kluven
@@ -729,7 +729,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1992;2;rättfärdiga;inviga;förmana;utöva;försvara;upplysa;försvara
 1992;2;sejour;helgdag;paus;vistelse;skildring;dagordning;vistelse
 1992;2;sipp;klok;rådd;svag;ond;pryd;pryd
-1992;2;skira;skumma;stycka;snärta;steka;strimla;snärta
+1992;2;skira;skumma;stycka;smälta;steka;strimla;smälta
 1992;2;spotsk;bestämd;tillgjord;snål;trotsig;hänsynslös;trotsig
 1992;2;tråna;be ödmjukt;drömma ljuvt;vänta otåligt;längta intensivt;le gåtfullt;längta intensivt
 1992;2;umgälla;bota;lova;ropa;möta;sona;sona
@@ -853,7 +853,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2000;2;homogen;enformig;entydig;enskild;ensidig;enhetlig;enhetlig
 2000;2;illusorisk;sannolik;oberäknelig;tillfällig;upplysande;skenbar;skenbar
 2000;2;implikation;tillfällig lösning;grov förolämpning;logisk följd;onormalt tillstånd;onödigt besvär;logisk följd
-2000;2;jämka;tillägga;anpassa;utplåna;beräkna;avlägsna;anpassa 
+2000;2;jämka;tillägga;anpassa;utplåna;beräkna;avlägsna;anpassa
 2000;2;konformitet;likformighet;uppgörelse;sammanblandning;förtroende;stadga;likformighet
 2000;2;kverulera;avsiktligt bedra;hota;ofta utebli;ropa;ständigt klaga;ständigt klaga
 2000;2;lättsinnig;ångerfull;snabbtänkt;hetsig;ansvarslös;gråtmild;ansvarslös
@@ -1660,7 +1660,7 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2015;2;föreskrift;bestämmelse;intyg;förslag;inledning;överenskommelse;bestämmelse
 2015;2;gastronomi;vältalighet;stjärntydning;finare matlagning;läkemedelslära;spådomskonst;finare matlagning
 2015;2;hårdragen;obetydlig;långsökt;plågsam;finkänslig;svårsmält;långsökt
-2015;2;i gåsmarsch;i rad;på rymmen;i rask takt;med jämna steg;under stök och bök;med jämna steg
+2015;2;i gåsmarsch;i rad;på rymmen;i rask takt;med jämna steg;under stök och bök;i rad
 2015;2;installation;invigning i ämbete;handläggning;inställd föreställning;positionsmarkering;inlärningsprocess;invigning i ämbete
 2015;2;käbbla;reta;klaga;störa;härja;gräla;gräla
 2015;2;lekamen;redskap;kropp;partikel;gräns;tecken;kropp
@@ -2054,4 +2054,4 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 2026;1;upprätthålla;ge styrka åt;ta upp någons tid;ligga till grund för;bevara på en viss nivå;visa upp en snygg fasad;bevara på en viss nivå
 2026;1;utomordentlig;märklig;förhastad;oavsiktlig;förträfflig;noggrann;förträfflig
 2026;1;utsikter;möjligheter;upplevelser;önskemål;föreställningar;synpunkter;möjligheter
-2026;1;välvillig;fast besluten;pålitlig;optimistisk;följsam;sympatiskt inställd;sympatiskt inställd1986;1;banér;tal;fana;sång;svärd;rop;fana
+2026;1;välvillig;fast besluten;pålitlig;optimistisk;följsam;sympatiskt inställd;sympatiskt inställd
