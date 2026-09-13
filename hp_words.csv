@@ -884,6 +884,126 @@ Year;Occasion;Word;Option1;Option2;Option3;Option4;Option5;CorrectAnswer
 1995;2;hejduk;hantlangare;fiende;släkting;granne;tränare;hantlangare
 1995;2;dra i långbänk;förtiga;förhala;förändra;fördöma;förtala;förhala
 1995;2;försåt;död;fångenskap;bakhåll;varning;misshandel;bakhåll
+1996;1;rättfram;snabbtänkt;otålig;envis;uppriktig;gladlynt;uppriktig
+1996;1;skocka sig;bredda ut sig;hopa sig;förbereda sig;vrida sig;flytta på sig;hopa sig
+1996;1;myriad;stor oreda;liten hög;häftigt utbrott;svårlöst gåta;otalig mängd;otalig mängd
+1996;1;tillika;sammanlagt;möjligen;uteslutande;dessutom;exempelvis;dessutom
+1996;1;rekviem;hundraårsjubileum;krigsutbrott;fängelsestraff;operapremiär;själamässa;själamässa
+1996;1;hävdvunnen;allmänt erkänd;helt naturlig;väl tilltagen;väldigt ordentlig;klart uttryckt;allmänt erkänd
+1996;1;röja;avslöja;utlösa;förfalska;utkräva;avråda;avslöja
+1996;1;ironisk;oberäknelig;lynnig;motvillig;spydig;likgiltig;spydig
+1996;1;profilera sig;blanda sig i;tjäna sitt uppehälle;förvänta sig;markera sin egenart;ställa sig in;markera sin egenart
+1996;1;omak;lättja;förbud;håglöshet;besvär;avsky;besvär
+1996;1;denim;tråckeltråd;konstfiber;slitstyrka;prydnadssöm;bomullstyg;bomullstyg
+1996;1;betagen;sorgsen;förtjust;älskad;lättledd;lurad;förtjust
+1996;1;rannsaka;ändra;benåda;pröva;vittna;tvinga;pröva
+1996;1;sampel;förstudie;stickprov;sifferkombination;slutresultat;beräkning;stickprov
+1996;1;lismare;grälsjuk person;tjuvaktig person;person som alltid råkar illa ut;överdrivet inställsam person;sjukligt misstänksam person;överdrivet inställsam person
+1996;1;princip;slutsats;erfarenhet;påstående;grundregel;invändning;grundregel
+1996;1;offerera;begränsa;avstå;erbjuda;uppskjuta;tillägga;erbjuda
+1996;1;däst;uttorkad;indränkt;grov;sträng;listig;grov
+1996;1;sisyfosarbete;tankearbete;samarbete;skrivbordsarbete;dubbelarbete;evighetsarbete;evighetsarbete
+1996;1;satsuma;ökenvind;hundras;dräggare;citrusfrukt;sidenrökt;citrusfrukt
+1996;1;förliden;pågående anländ;förstfödd;sist förfluten;nästkommande;sent påbörjad;sist förfluten
+1996;1;repressalier;lagöverträdelser;nödlåtgärder;upprorshandlingar;hämndaktioner;hotelser;hämndaktioner
+1996;1;avmått;slö;säker;fri;blyg;stel;stel
+1996;1;tabernakel;känselspröt;svårtolkat meddelande;bönhus;stormigt uppror;stjärnbild;bönhus
+1996;1;antagonist;förtryckare;motståndare;välgörare;förföljare;dagdrivare;motståndare
+1996;1;embargo;fraktkostnad;överlast;handelsförbud;förpackning;godstransport;handelsförbud
+1996;1;ramaskri;självömkan;glatt tillrop;samvetsnöd;högljudd klagan;dödsångest;högljudd klagan
+1996;1;vara begiven på;vara svag för;vara trött på;vara bekymrad över;vara uppmärksam på;vara utsatt för;vara svag för
+1996;1;fraternisera;skapa splittring;göra upp;umgås kamratligt;märka ord;söka stöd;umgås kamratligt
+1996;1;resignation;uppgörelse;ånger;återhämtning;hänsyn;uppgivenhet;uppgivenhet
+1996;1;sätta hämsko på;straffa;förbjuda;bromsa;övervaka;kräva;bromsa
+1996;1;utsira;formulera;servera;planera;dekorera;variera;dekorera
+1996;1;inkonsekvent;icke påvisbar;icke medgörlig;icke följdriktig;icke avsiktlig;icke användbar;icke följdriktig
+1996;1;lägra sig;ägna sig;offra sig;skydda sig;utbreda sig;lugna sig;utbreda sig
+1996;1;mankemang;krångel;skuld;tur;oro;slump;krångel
+1996;1;brokad;schackbräde;stridsåtgärd;balkongräcke;sidentyg;gatuglas;sidentyg
+1996;1;quisling;enväldshärskare;förfalskare;avhoppare;landsförrädare;kuppmakare;landsförrädare
+1996;1;evaluera;utesluta;utveckla;underskatta;upphöja;utvärdera;utvärdera
+1996;1;klyscha;gammal vana;dåligt skämt;gott råd;fin vink;tom fras;tom fras
+1996;1;lösmunt person;en som tiger och samtycker;en som är hänsynslöst ärlig;en som pratar bredvid mun;en som försöker ställa sig in;en som aldrig lyssnar på andra;en som pratar bredvid mun
+1997;1;farsot;inbillat hot;smittsam sjukdom;skräckupplevelse;elakt förtal;bedrägeri;smittsam sjukdom
+1997;1;resolut;motsträvig;beslutsam;trovärdig;högdragen;förståndig;beslutsam
+1997;1;sakrament;kristen kulthandling;dopfunt;helig skrift;straffdom;sidorum i kyrka;kristen kulthandling
+1997;1;olater;dåliga vanor;stark motvilja;dolda begär;ständig klagan;hövliga fraser;dåliga vanor
+1997;1;audition;hörsal;utsändning;högtidligt besök;scenprov;hörseltest;scenprov
+1997;1;reda;tillsätta mjöl;sila bort spad;koka i vatten;lägga i blöt;ösa bort skum;tillsätta mjöl
+1997;1;skattram;ylletyg;fågel;fartyg;växt;verktyg;växt
+1997;1;opportun;för tillfället passande;ytterst motvillig;överdrivet artig;ytterst olämplig;för tillfället osäker;för tillfället passande
+1997;1;topografi;temperaturkarta;skönskrift;boktryckarkonst;jordmån;terrängförhållanden;terrängförhållanden
+1997;1;avspisa;avfärda;avlägsna;avråda;avväpna;avnjuta;avfärda
+1997;1;etage;utställning;balkong;trapphus;upphöjd scen;våningsplan;våningsplan
+1997;1;propsa på;önska sig;kräva;locka fram;lura;vaka över;kräva
+1997;1;vedermöda;ersättning;hämnd;skuld;besvär;motvilja;besvär
+1997;1;kodex;rättesnöre;hemligt meddelande;medlemsförteckning;formel för beräkning;sammanfattning;rättesnöre
+1997;1;agenda;diskussion;styrelsemöte;protokoll;dagordning;ändringsförslag;dagordning
+1997;1;hägra;skydda;hindra;skymma;locka;skygga;locka
+1997;1;tabula rasa;förbjuden frukt;oskrivet blad;hårt straff;oväntat slut;farlig böjelse;oskrivet blad
+1997;1;konventionell;sällsynt;olämplig;sedvanlig;omstridd;utbytbar;sedvanlig
+1997;1;bisträcka;avkorta;förslå;överlämna;gena;hjälpa;hjälpa
+1997;1;tordön;oskyldigt anklagad;kraftigt buller;tjurfäktare;stärkande medel;femkantig byggnad;kraftigt buller
+1997;1;sidsteppa;uppskjuta;förbigå;baktala;utstå;avvika;förbigå
+1997;1;rådpläga;överlägga;efterfråga;bekräfta;påbjuda;understödja;överlägga
+1997;1;härvidlag;för omedelbar kännedom;i detta avseende;bortsett från;trots detta;vid närmare eftertanke;i detta avseende
+1997;1;ensilage;underhåll åt kungahus;handel med utländska valutor;praktfullt jaktslott;öppning av konstutställning;konserverat djurfoder;konserverat djurfoder
+1997;1;konkubin;medtävlare;älskarinna;oäkting;biktmoder;medbrottsling;älskarinna
+1997;1;reflexiv;kvicktänkt;belysande;spontan;eftertänksam;tillbakasyftande;tillbakasyftande
+1997;1;fabulera;förrolla;fantisera;gynna;uppträda;berömma;fantisera
+1997;1;skärmytsling;mindre strid;grov skymf;dåligt skämt;lustig händelse;lindrig skada;mindre strid
+1997;1;benign;invärtes;godartad;obotlig;elakartad;utvärtes;godartad
+1997;1;hemfalla åt;låta sig upptas av;längta till;vänja sig vid;känna för;låta lura sig till;låta sig upptas av
+1997;1;validitet;osäkerhet;giltighet;rörighet;tydlighet;matbarhet;giltighet
+1997;1;lyhörd;frågvis och vetgirig;fåordig och inbunden;irriterad och lättstörd;nöjd och belåten;känslig och uppmärksam;känslig och uppmärksam
+1997;1;sampla;utvärdera resultat;åstadkomma jämvikt;ta stickprov;göra överslagsberäkningar;formulera frågor;ta stickprov
+1997;1;civilkurage;lydnad inför överheten;mod att stå för sin mening;passivt motstånd;känsla för vad som är rätt;allmän försvarsvilja;mod att stå för sin mening
+1997;1;narrativ;underhållande;bedövande;kringvandrande;inbjudande;berättande;berättande
+1997;1;obelisk;väggbonad;pelare;underverk;mynt;sagodjur;pelare
+1997;1;explicit;underskattad;försiktig;översiktlig;uttrycklig;avslutad;uttrycklig
+1997;1;gentil;naturlig;manlig;frikostig;begåvad;självfull;frikostig
+1997;1;stilisera;förminska;beteckna;förstora;beskriva;förenkla;förenkla
+1997;1;anakronism;känsla av främlingskap;språklig upprepning;målande liknelse;otidsenlig företeelse;filosofisk inriktning;otidsenlig företeelse
+1997;2;gagn;skydd;lydnad;lön;ansvar;nytta;nytta
+1997;2;strandsätta;landa;överge;klara av;påbörja;ödelägga;överge
+1997;2;zodiaken;befruktad äggcell;urtavla;stjärnbilder;helig ko;ädelmetaller;stjärnbilder
+1997;2;millennium;årtusende;grundämne;handelsmässa;minnesstund;folkomröstning;årtusende
+1997;2;primär;förebyggande;tillfällig;slutgiltig;grundläggande;förstklassig;grundläggande
+1997;2;polarisera;samordna i tiden;göra mera tillgänglig;göra mera världslig;skärpa motsatsförhållanden;dela in i undergrupper;skärpa motsatsförhållanden
+1997;2;tillskyndare;storförbrukare;meningsmotståndare;sanningssökare;initiativtagare;ordvrängare;initiativtagare
+1997;2;sekteristisk;oskyldig;avvikande;försiktig;omdömeslös;bortkommen;avvikande
+1997;2;pungslå;våga gå med på;ta på bar gärning;grovt misshandla;ta för mycket betalt;ställa mot väggen;ta för mycket betalt
+1997;2;vederfaras;ge upp;vara säker på;strunta i;komma till del;ge igen;komma till del
+1997;2;egenmäktig;likgiltig;villrådig;maktfullkomlig;naturlig;svåråtkomlig;maktfullkomlig
+1997;2;rabulist;gudsförnekare;medlöpare;lyckosökare;finsmakare;orosstiftare;orosstiftare
+1997;2;vara förtrogen med;vara till nytta för;vara till lags;vara hemlighetsfull;vara förälskad i;vara kunnig i;vara kunnig i
+1997;2;tête-à-tête;slutlig uppgörelse;vänlig attityd;hård diskussion;förtrolig samvaro;knivskarp konkurrent;förtrolig samvaro
+1997;2;tajga;fjällmassiv;renskiljning;barrskogsområde;snösläde;vindskydd;barrskogsområde
+1997;2;åkallan;ansvarsfull livsuppgift;utmätt straff;allvarlig påminnelse;bön om hjälp;sträng befallning;bön om hjälp
+1997;2;apostrofera;klappa i händerna;ihärdigt förneka;gå med på;lägga beslag på;rikta sig till;rikta sig till
+1997;2;stingslig;energisk;ohämmad;retlig;envis;mallig;retlig
+1997;2;sinuit;bihåleinflammation;ledgångsreumatism;magsår;ryggskott;hjärtinfarkt;bihåleinflammation
+1997;2;bijouterier;skrivmateriel;dyra livsmedel;enkla smycken;modekläder;skönhetsmedel;enkla smycken
+1997;2;beläte;skadeglädje;avgudabild;förbön;önskedröm;hundskall;avgudabild
+1997;2;ponera;understryka;påskynda;samtycka;uppskjuta;förutsätta;förutsätta
+1997;2;harlekin;haremsvakt;trollkarl;bedragen äkta man;teaterfigur;sjörövare;teaterfigur
+1997;2;élan;hänförelse;bestörtning;måttfullhet;galenskap;förtrolighet;hänförelse
+1997;2;nödsakad;villrådig;tvungen;övergiven;plågad;utsliten;tvungen
+1997;2;meditativ;livsbejakande;begrundande;framåtblickande;medryckande;förtroendeingivande;begrundande
+1997;2;lidelsefull;irriterad;medkännande;plågad;överkänslig;passionerad;passionerad
+1997;2;över hövan;knappt märkbart;alltför mycket;ytterst noggrant;lagom mycket;utan hänsyn;alltför mycket
+1997;2;bedarra;rasa;oroa;avta;frukta;lura;avta
+1997;2;lejonparten;kritisk gräns;gemensamma delen;kärnpunkt;största delen;bästa lösningen;största delen
+1997;2;varsel;order;förebud;avsked;motbud;risk;förebud
+1997;2;kitsch;väggklotter;hemligt språk;smaklös konst;kollektivt jordbruk;körsbärsvin;smaklös konst
+1997;2;lända till;inrätta;uppstå;medföra;avvika;påminna;medföra
+1997;2;kaftan;stränginstrument;långrock;segelbåt;glasveranda;serveringsskåp;långrock
+1997;2;suggerera;understödja;påverka;förutsätta;tillägga;sammanfatta;påverka
+1997;2;frugal;överdådig;laglig;lam;förståndig;enkel;enkel
+1997;2;kanalje;slyngel;snåljåp;vekling;pratmakare;stolle;slyngel
+1997;2;vämjas;känna ånger;känna äckel;känna oro;känna vanmakt;känna tvekan;känna äckel
+1997;2;kreti och pleti;vem som helst;djur och människor;vänner och bekanta;människor i farten;levande och döda;vem som helst
+1997;2;vidlyftig;utsvävande;förstående;intelligent;pålitlig;lätthanterlig;utsvävande
 2000;1;anstånd;försök;uppskov;utökning;bidrag;skäl;uppskov
 2000;1;attestera;upplysa;intyga;besluta;avlyssna;påbörja;intyga
 2000;1;bestickning;förlust;lån;avdrag;försäljning;muta;muta
